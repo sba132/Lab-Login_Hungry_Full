@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login Hungry Happy</string>
+    <string name="password">PASSWORD</string>
+    <string name="name">NAME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="next">Next</string>
+    <string name="cookies">Cookies</string>
+    <string name="hungry">I\'m so hungry!</string>
+    <string name="full">I\'m so full!</string>
+    <string name="eat">Eat Cookie</string>
+    <string name="done">Done</string>
+    <string name="hungry_emoji">Hungry Emoji</string>
+    <string name="full_emoji">Satisfied Emoji</string>
+</resources>
